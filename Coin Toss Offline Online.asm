@@ -227,6 +227,7 @@ main proc
     lea dx, choice21
     int 21h
     ; I love my life
+    ; I Love my life too... who are you?
     mov L, 'Y'
     mov Lw, 'y'
     mov R,  'N'
