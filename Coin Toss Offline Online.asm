@@ -226,7 +226,7 @@ main proc
     mov ah, 9
     lea dx, choice21
     int 21h
-    
+    ; I love my life
     mov L, 'Y'
     mov Lw, 'y'
     mov R,  'N'
